@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Qtcreator stuff
+*.pro.user
+build/
+Makefile
+
+# .gitignore
+*~
+*.txt
